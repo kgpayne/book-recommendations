@@ -1,0 +1,6 @@
+[submodule "book-tools"]
+	path = book-tools
+	url = git@github.com:kgpayne/book-tools.git
+[submodule "tim-ferriss-show/tap-books-of-titans"]
+	path = tim-ferriss-show/tap-books-of-titans
+	url = git@github.com:kgpayne/tap-books-of-titans.git

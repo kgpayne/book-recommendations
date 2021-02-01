@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipykernel = "*"
+matplotlib = "*"
+
+[packages]
+pandas = "*"
+recordlinkage = "*"
+fuzzywuzzy = "*"
+scipy = "*"
+scikit-learn = "*"
+book-tools = {editable = true, path = "./../book-tools"}
+networkx = "*"
+
+[requires]
+python_version = "3.8"
